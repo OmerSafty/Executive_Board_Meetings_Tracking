@@ -4,7 +4,7 @@
 ## Introduction
 ![alt text](<(3) Media/Gifs/Dynamic_dashboard.gif>)
 
-This project was created as a training exercise to simulate a real-world Excel dashboard request from a business executive team. The goal was to build a dynamic and visually engaging tool for tracking recommendations made during board meetings — helping leadership monitor execution progress, priorities, and departmental responsibilities.
+This project was created as a training exercise to simulate a real-world Excel dashboard request from a business executive team. The goal was to build a dynamic and visually engaging tool for tracking recommendations made during board meetings helping leadership monitor execution progress, priorities, and departmental responsibilities.
 
 ---
 
@@ -91,7 +91,7 @@ Since it's powered by PivotTables and formulas, the dashboard automatically refl
 
 ## 🧠 Conclusion
 
-This project was an excellent opportunity to simulate a real-world Excel dashboarding task from start to finish — from data structure planning and validation to creating a fully dynamic and interactive reporting tool.
+This project was an excellent opportunity to simulate a real-world Excel dashboarding task from start to finish from data structure planning and validation to creating a fully dynamic and interactive reporting tool.
 
 It helped reinforce best practices in Excel, like clean data design, automation with formulas, and visual storytelling through dashboards.
 
